@@ -2,7 +2,6 @@
 #대화형 생성 모델을 위한 인권코퍼스 구축
 
 ![logo](./logo.png)
-
 데이터 구축 과정
 
 -  대한민국 [국가인권위원회](https://case.humanrights.go.kr/dici/diciList.do)의 결정례와 상담사례를 참조
