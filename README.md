@@ -1,7 +1,7 @@
-# HRC
-#대화형 생성 모델을 위한 인권코퍼스 구축(Building a human rights corpus for interactive generation models)
+# HRC: Building a human rights corpus for interactive generation models
+#대화형 생성 모델을 위한 인권코퍼스 구축
 
-
+![logo](./logo.png)
 
 데이터 구축 과정
 
