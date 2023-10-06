@@ -4,27 +4,31 @@
 ![logo](./hr.jpg)
 
 
+          
 
-## 데이터 예시    
+## 데이터 예시      
 
 ![pic](./hrc.png)
 
 
 
-## 참조 데이터   
+                 
 
--  대한민국 [국가인권위원회](https://case.humanrights.go.kr/dici/diciList.do)의 결정례와 상담사례 참조
+## 참조 데이터      
 
+-  대한민국 [국가인권위원회](https://case.humanrights.go.kr/dici/diciList.do)의 결정례와 상담사례 참조   
+-  문체 변경과 질의 응답으로 변경하기 위해서 전후 맥락을 고려한 예시문을 만들고 GPT-3.5-turbo 을 이용하여 원샷 학습후 문답 생성    
 
-## 데이터 구조   
+                   
+## 데이터 구조      
 
-- 데이터 구조 : source_copus---counsel.jsonl
-                         ---decision.jsonl
-              humane_right_copus_v1.jsonl 
+- 데이터 구조 : source_copus---counsel.jsonl   
+                         ---decision.jsonl   
+              humane_right_copus_v1.jsonl     
               
 
--  문체 변경과 질의 응답으로 변경하기 위해서 전후 맥락을 고려한 예시문을 만들고 GPT-3.5-turbo 을 이용하여 원샷 학습후 문답 생성 
 
+     
 
 ## 프롬프트 예시
 
