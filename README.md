@@ -5,14 +5,18 @@
 
 
 
-## 데이터 사용
+## 데이터 예시    
+
+![pic](./hrc.png)
 
 
 
-## 데이터 구축 과정
+## 참조 데이터   
 
 -  대한민국 [국가인권위원회](https://case.humanrights.go.kr/dici/diciList.do)의 결정례와 상담사례 참조
 
+
+## 데이터 구조   
 
 - 데이터 구조 : source_copus---counsel.jsonl
                          ---decision.jsonl
